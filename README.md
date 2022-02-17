@@ -1,7 +1,9 @@
  
 # The Gene_finder program
 
-### This program is designed to manipulate data from DNA and find the genes that are encoded by the DNA sequence. It contains 11 independent functions.These functions are :
+### This program is designed to manipulate DNA sequence data and find the genes that are encoded by the sequence. 
+
+# Functions for steps involved
 
 * get_complement(nucleotide)
     * Returns the complementary nucleotide
