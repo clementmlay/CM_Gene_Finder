@@ -8,8 +8,11 @@
 * get_complement(nucleotide)
     * Returns the complementary nucleotide
         nucleotide: a nucleotide (A, C, G, or T) represented as a string
+        
         returns: the complementary nucleotide
+        
     `get_complement('A')
+    
     'T'`
 * get_reverse_complement(dna)
     * Computes the reverse complementary sequence of DNA for the specfied DNA
