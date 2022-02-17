@@ -13,7 +13,8 @@
         returns: the complementary nucleotide
         
     `get_complement('A')`
-    `'T'`
+    
+    `Returns: 'T'`
 * get_reverse_complement(dna)
     * Computes the reverse complementary sequence of DNA for the specfied DNA
         sequence
